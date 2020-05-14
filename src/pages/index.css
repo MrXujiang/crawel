@@ -1,0 +1,48 @@
+
+.normal {
+  font-family: Georgia, sans-serif;
+  margin-top: 4em;
+  width: 80%;
+  padding-left: 6em;
+}
+
+.normal h3 {
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.result {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.item {
+  width: 25%;
+  margin-bottom: 20px;
+}
+
+.recent {
+  width: 100%;
+}
+
+.recent .viewLink {
+  text-align: center;
+}
+
+.bg {
+  width: 92%;
+  height: 150px;
+  background-size: cover;
+  filter: drop-shadow(8px 8px 10px #ccc);
+}
+
+.viewLink {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.viewLink a {
+  margin-right: 16px;
+}
